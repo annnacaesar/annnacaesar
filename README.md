@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Anna 👋
-- 🔭 I’m currently studying Full Stack developer at the GoIT Academy.
+- 🔭 I’ve finished the course Full Stack developer at the GoIT Academy.
 - 🌱 I’m currently learning everything I can get my hands on
 - 📫 How to reach me: annnacaesar@gmail.com
 - ⚡ Fun fact: The world’s first computer programmer was a renowned female mathematician
